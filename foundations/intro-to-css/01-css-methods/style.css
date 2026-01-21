@@ -1,0 +1,10 @@
+.external {
+   background-color : red;
+   width: 1000px;
+   border:15px solid red;
+   padding: 50px;
+   margin: 20px;
+   color: aliceblue;
+   text-align: center;
+   font-size: 32px;
+}
